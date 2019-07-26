@@ -5,7 +5,7 @@ let g:dracula#palette.fg        = ['#F8F8F2', 253]
 
 let g:dracula#palette.bglighter = ['#424450', 238]
 let g:dracula#palette.bglight   = ['#343746', 237]
-let g:dracula#palette.bg        = ['#282A36', 236]
+let g:dracula#palette.bg        = ['#181A26', 236]
 let g:dracula#palette.bgdark    = ['#21222C', 235]
 let g:dracula#palette.bgdarker  = ['#191A21', 234]
 
@@ -13,24 +13,24 @@ let g:dracula#palette.comment   = ['#6272A4',  61]
 let g:dracula#palette.selection = ['#44475A', 239]
 let g:dracula#palette.subtle    = ['#424450', 238]
 
-let g:dracula#palette.cyan      = ['#8BE9FD', 117]
-let g:dracula#palette.green     = ['#50FA7B',  84]
+let g:dracula#palette.cyan      = ['#26D7FD', 117]
+let g:dracula#palette.green     = ['#00FA3F',  84]
 let g:dracula#palette.orange    = ['#FFB86C', 215]
-let g:dracula#palette.pink      = ['#FF79C6', 212]
-let g:dracula#palette.purple    = ['#BD93F9', 141]
+let g:dracula#palette.pink      = ['#FF24A2', 212]
+let g:dracula#palette.purple    = ['#C153F9', 141]
 let g:dracula#palette.red       = ['#FF5555', 203]
-let g:dracula#palette.yellow    = ['#F1FA8C', 228]
+let g:dracula#palette.yellow    = ['#BFFA35', 228]
 
 "
 " ANSI
 "
 let g:dracula#palette.color_0  = '#21222C'
 let g:dracula#palette.color_1  = '#FF5555'
-let g:dracula#palette.color_2  = '#50FA7B'
-let g:dracula#palette.color_3  = '#F1FA8C'
-let g:dracula#palette.color_4  = '#BD93F9'
-let g:dracula#palette.color_5  = '#FF79C6'
-let g:dracula#palette.color_6  = '#8BE9FD'
+let g:dracula#palette.color_2  = '#00FA3F'
+let g:dracula#palette.color_3  = '#BFFA35'
+let g:dracula#palette.color_4  = '#C153F9'
+let g:dracula#palette.color_5  = '#FF24A2'
+let g:dracula#palette.color_6  = '#26D7FD'
 let g:dracula#palette.color_7  = '#F8F8F2'
 let g:dracula#palette.color_8  = '#6272A4'
 let g:dracula#palette.color_9  = '#FF6E6E'
